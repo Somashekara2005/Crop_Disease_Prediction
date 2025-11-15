@@ -94,17 +94,16 @@ Output:
 ## 📸 Screenshot Previews
 
 ### 🌱 Fertilizer Recommendation Page
-![Fertilizer Recommendation](image/fertilizer_page.png)
+![Fertilizer Recommendation](images/fertilizer-result.png) 
 
 ### 🌾 Crop Recommendation Result
-![Crop Result](image/crop_result.png)
+![Crop Result](images/crop-result.png) 
 
 ### 🍃 Disease Detection Upload
-![Disease Detection](image/disease_detection.png)
+![Disease Detection](images/disease-result.png) 
 
 ### 🏡 Home Page
-![Home Page](image/home_page.png)
-
+![Home Page](images/Home.png) 
 
 ---
 
