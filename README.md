@@ -90,20 +90,19 @@ Output:
 ### **Web**
 - Flask / Django  
 - HTML, CSS, JavaScript
-
 ## 📸 Screenshot Previews
 
 ### 🌱 Fertilizer Recommendation Page
-![Fertilizer Recommendation](images/fertilizer-result.png) 
+![Fertilizer Recommendation](images/fertilizer-result.png)
 
 ### 🌾 Crop Recommendation Result
-![Crop Result](images/crop-result.png) 
+![Crop Result](images/crop-result.png)
 
 ### 🍃 Disease Detection Upload
-![Disease Detection](images/disease-result.png) 
+![Disease Detection](images/disease-result.png)
 
 ### 🏡 Home Page
-![Home Page](images/Home.png) 
+![Home Page](images/Home.png)
 
 ---
 
