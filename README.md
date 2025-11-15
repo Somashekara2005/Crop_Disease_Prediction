@@ -1,18 +1,98 @@
-# Crop_Disease_Prediction
-DATA SOURCE 📊
-Crop recommendation dataset (custom built dataset)
-Fertilizer suggestion dataset (custom built dataset)
-Disease detection dataset
-MOTIVATION 💪
-Farming is one of the major sectors that influences a country’s economic growth.
+# 🌾 Smart Agriculture Assistant  
+### *Crop Recommendation • Fertilizer Suggestion • Plant Disease Detection*
 
-In country like India, majority of the population is dependent on agriculture for their livelihood. Many new technologies, such as Machine Learning and Deep Learning, are being implemented into agriculture so that it is easier for farmers to grow and maximize their yield.
+---
 
-In this project, I present a website in which the following applications are implemented; Crop recommendation, Fertilizer recommendation and Plant disease prediction, respectively.
+## 📌 Overview  
+Smart Agriculture Assistant is a machine-learning–powered web application that helps farmers make informed decisions for better yield and healthier crops. The project integrates three major agricultural intelligence modules:
 
-In the crop recommendation application, the user can provide the soil data from their side and the application will predict which crop should the user grow.
+1. **Crop Recommendation** – Suggests the most suitable crop based on soil nutrient values and weather conditions.  
+2. **Fertilizer Recommendation** – Suggests the right fertilizer by comparing soil nutrient content with optimal crop requirements.  
+3. **Plant Disease Detection** – Uses deep learning to detect plant diseases from leaf images and provide background info & cure suggestions.
 
-For the fertilizer recommendation application, the user can input the soil data and the type of crop they are growing, and the application will predict what the soil lacks or has excess of and will recommend improvements.
+This system is built to support sustainable agriculture and empower farmers through data-driven insights.
 
-For the last application, that is the plant disease prediction application, the user can input an image of a diseased plant leaf, and the application will predict what disease it is and will also give a little background about the disease and suggestions to cure it.
+---
+
+## 🌱 Motivation  
+Agriculture is a cornerstone of economic growth, especially in countries like India where a major portion of the population relies on farming for their livelihood.  
+With the rise of modern technologies like **Machine Learning** and **Deep Learning**, agriculture can be made more efficient and productive.
+
+This project aims to:  
+- Help farmers increase yield  
+- Reduce resource waste  
+- Detect diseases early  
+- Make expert-level insights easily accessible  
+
+---
+
+## 📊 Data Sources  
+
+- **Crop Recommendation Dataset**  
+  https://www.kaggle.com/atharvaingle/crop-recommendation-dataset  
+
+- **Fertilizer Recommendation Dataset**  
+  https://github.com/Gladiator07/Harvestify/blob/master/Data-processed/fertilizer.csv  
+
+- **Plant Disease Dataset**  
+  https://www.kaggle.com/vipoooool/new-plant-diseases-dataset  
+
+---
+
+## 🚀 Features
+
+### 🌾 **1. Crop Recommendation**
+Input:  
+- Nitrogen (N)  
+- Phosphorus (P)  
+- Potassium (K)  
+- Temperature  
+- Humidity  
+- pH  
+- Rainfall  
+
+Output:  
+- Best crop recommendation based on soil & weather.
+
+---
+
+### 🌿 **2. Fertilizer Recommendation**
+Input:  
+- Crop Type  
+- Soil N, P, K values  
+
+Output:  
+- What nutrient is deficient or excessive  
+- Recommended fertilizer & improvements  
+
+---
+
+### 🍃 **3. Plant Disease Detection**
+Input:  
+- Image of a plant leaf  
+
+Output:  
+- Detected disease  
+- Description of the disease  
+- Cure & treatment suggestions  
+
+---
+
+## 🛠️ Tech Stack
+
+### **Backend & Modeling**
+- Python  
+- Scikit-learn  
+- TensorFlow / Keras  
+- OpenCV  
+- NumPy, Pandas  
+
+### **Web**
+- Flask / Django  
+- HTML, CSS, JavaScript  
+
+---
+
+## 📂 Project Structure  
+*(Modify based on your repository)*
 
